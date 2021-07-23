@@ -1,4 +1,4 @@
-# Minecraft Alpha 0.0.23a
+# Minecraft Online Edition / Offline Edition 
 A repo that contains Minecraft's classic.minecraft.net version (0.0.23a). The goal is to make a Offline copy of Minecraft without spending money on a actual Mineraft version.
 
 -----

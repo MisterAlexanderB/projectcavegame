@@ -11,6 +11,8 @@ This version of Minecraft is very old, so don't expect 1.17 features yet! LOL!
 
 -----
 
-## Contributors so far 
+## Branches
 
-Me - MisterAlexanderB
+The **main** branch - The online version (misteralexanderb.github.io/projectcavegame)
+
+The **offline** branch - The offline version, which is not ready for download yet

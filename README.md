@@ -1,4 +1,4 @@
-# Minecraft Online Edition / Offline Edition 
+# Minecraft Online Edition
 A repo that contains Minecraft's classic.minecraft.net version (0.0.23a). The goal is to make a Offline copy of Minecraft without spending money on a actual Mineraft version.
 
 -----
@@ -15,4 +15,4 @@ This version of Minecraft is very old, so don't expect 1.17 features yet! LOL!
 
 The **main** branch - The online version (misteralexanderb.github.io/projectcavegame)
 
-The **offline** branch - The offline version, which is not ready for download yet
+
